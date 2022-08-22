@@ -1,0 +1,39 @@
+{
+    "homepage": "https://github.com/rigaya/VCEEnc",
+    "description": "Transcoding software using VCE of AMD.",
+    "version": "7.05",
+    "license": "MIT",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/rigaya/VCEEnc/releases/download/7.05/VCEEncC_7.05_Win32.7z",
+            "hash": "CA978990229A4C59C31D8FAFDAC5083028CA1FD4498B0F23E59E53EF969CDE2E",
+            "bin": [
+                [
+                    "VCEEncC.exe",
+                    "vceencc"
+                ]
+            ]
+        },
+        "64bit": {
+            "url": "https://github.com/rigaya/VCEEnc/releases/download/7.05/VCEEncC_7.05_x64.7z",
+            "hash": "6E910CCD4FCAAB12BA3CF306C65421D52BDABE219CF44F119D5131836B38DC07",
+            "bin": [
+                [
+                    "VCEEncC64.exe",
+                    "vceencc"
+                ]
+            ]
+        }
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://github.com/rigaya/VCEEnc/releases/download/$version/VCEEncC_$version_Win32.7z"
+            },
+            "64bit": {
+                "url": "https://github.com/rigaya/VCEEnc/releases/download/$version/VCEEncC_$version_x64.7z"
+            }
+        }
+    }
+}
