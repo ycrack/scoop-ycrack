@@ -1,16 +1,16 @@
 {
     "homepage": "https://tsduck.io",
     "description": "MPEG Transport Stream Toolkit",
-    "version": "3.31-2761",
+    "version": "3.32-2983",
     "license": "BSD-2-Clause",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/tsduck/tsduck/releases/download/v3.31-2761/TSDuck-Win32-3.31-2761-Portable.zip",
-            "hash": "2d19d3d4bdc231dc1f23e1faf4f9706ab043e73a1f3b091fa5380ad6db8e1436"
+            "url": "https://github.com/tsduck/tsduck/releases/download/v3.32-2983/TSDuck-Win32-3.32-2983-Portable.zip",
+            "hash": "19114f61a93c7e915bb2db224cbce99f4a192d3a63bb6417eda4e1872fd514fa"
         },
         "64bit": {
-            "url": "https://github.com/tsduck/tsduck/releases/download/v3.31-2761/TSDuck-Win64-3.31-2761-Portable.zip",
-            "hash": "feba4377ec703017487bae6928cf299803f690a004823f519c9382d841cf58d1"
+            "url": "https://github.com/tsduck/tsduck/releases/download/v3.32-2983/TSDuck-Win64-3.32-2983-Portable.zip",
+            "hash": "db759cf7d3b400e0d2378bbee96e01c0540a592a44154074d7c10c30d26c8ff5"
         }
     },
     "env_add_path": "bin",
