@@ -1,13 +1,13 @@
 {
     "homepage": "https://github.com/blacktop/ipsw",
     "description": "iOS/macOS Research Swiss Army Knife",
-    "version": "3.1.221",
+    "version": "3.1.222",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "hash": "b247b7fefa826cd792dbbf969b2872aaa884370ca7f6360731eefd26339a09c8",
-            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.221/ipsw_3.1.221_windows_x86_64.tar.gz",
-            "extract_dir": "ipsw_3.1.221_windows_x86_64",
+            "hash": "bff036f2d8f41261aca2c44a019f4e6806a605da9ec10b1111d968de626288e6",
+            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.222/ipsw_3.1.222_windows_x86_64.tar.gz",
+            "extract_dir": "ipsw_3.1.222_windows_x86_64",
             "bin": "ipsw.exe"
         }
     },
