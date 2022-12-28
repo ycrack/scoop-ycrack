@@ -1,0 +1,24 @@
+{
+    "homepage": "https://github.com/xtne6f/tsmemseg",
+    "description": "In-memory transport stream segmenter mainly for HLS",
+    "version": "220521",
+    "license": "MIT",
+    "url": "https://github.com/xtne6f/tsmemseg/releases/download/master-220521/tsmemseg-master-with-d-220521.zip",
+    "hash": "4e437c8455e69896809c62c6c2b74114cc654306c80b7b417001fbc53fa3cd0f",
+    "architecture": {
+        "64bit": {
+            "extract_dir": "x64"
+        },
+        "32bit": {
+            "extract_dir": "x86"
+        }
+    },
+    "bin": "tsmemseg.exe",
+    "checkver": {
+        "url": "https://github.com/xtne6f/tsmemseg/releases/latest",
+        "regex": "master-(\\d{6})"
+    },
+    "autoupdate": {
+        "url": "https://github.com/xtne6f/tsmemseg/releases/download/master-$version/tsmemseg-master-with-d-$version.zip"
+    }
+}
