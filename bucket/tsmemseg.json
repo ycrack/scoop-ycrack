@@ -1,6 +1,6 @@
 {
     "homepage": "https://github.com/xtne6f/tsmemseg",
-    "description": "In-memory transport stream segmenter mainly for HLS",
+    "description": "In-memory transport stream segmenter mainly for HLS/LL-HLS",
     "version": "230122",
     "license": "MIT",
     "url": "https://github.com/xtne6f/tsmemseg/releases/download/master-230122/tsmemseg-master-with-d-230122.zip",
