@@ -17,6 +17,7 @@ Apps
 name | link | description
 --- | --- | ---
 [`b24tovtt`](bucket/b24tovtt.json) | :octocat: [xtne6f/b24tovtt](https://github.com/xtne6f/b24tovtt) | Creates WebVTT from trace output of tsreadex
+[`bzeditor`](bucket/bzeditor.json) | :raccoon: [devill.tamachan/binaryeditorbz](https://gitlab.com/devill.tamachan/binaryeditorbz) | Simple binary editor
 [`nvencc`](bucket/nvencc.json) | :octocat: [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | Transcoding software using NVENC of NVIDIA.
 [`psisiarc`](bucket/psisiarc.json) | :octocat: [xtne6f/psisiarc](https://github.com/xtne6f/psisiarc) | MPEG-TS section (PSI/SI etc.) archiver
 [`qsvencc`](bucket/qsvencc.json) | :octocat: [rigaya/QSVEnc](https://github.com/rigaya/QSVEnc) | Transcoding software using Intel Quick Sync Video.
