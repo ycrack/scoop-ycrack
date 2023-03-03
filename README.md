@@ -23,4 +23,5 @@ name | link | description
 [`tsduck`](bucket/tsduck.json) | :globe_with_meridians: https://tsduck.io | MPEG Transport Stream Toolkit
 [`tsmemseg`](bucket/tsmemseg.json) | :octocat: [xtne6f/tsmemseg](https://github.com/xtne6f/tsmemseg) | In-memory transport stream segmenter mainly for HLS/LL-HLS
 [`tsreadex`](bucket/tsreadex.json) | :octocat: [xtne6f/tsreadex](https://github.com/xtne6f/tsreadex) | MPEG-TS stream selector and stabilizer
+[`umaviewer`](bucket/umaviewer.json) | :octocat: [katboi01/UmaViewer](https://github.com/katboi01/UmaViewer) | Asset Viewer for Uma Musume
 [`vceencc`](bucket/vceencc.json) | :octocat: [rigaya/VCEEnc](https://github.com/rigaya/VCEEnc) | Transcoding software using VCE of AMD.
