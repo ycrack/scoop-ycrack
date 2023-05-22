@@ -9,6 +9,7 @@
             "hash": "658540bfdd8349bba5690bd8c25d1f621ba44903aa8c3ee8d1bddf1484adcca8"
         }
     },
+    "extract_dir": "TSDuck",
     "env_add_path": "bin",
     "env_set": {
         "CLASSPATH": "$dir\\java\\tsduck.jar;$CLASSPATH",
