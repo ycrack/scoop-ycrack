@@ -1,13 +1,16 @@
+name: Pull Requests
+
 on:
   pull_request:
-    types: [opened]
-name: Pull Requests
+    types:
+      - opened
+
 jobs:
   pullRequestHandler:
     name: PullRequestHandler
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@v6
       - name: PullRequestHandler
         uses: ScoopInstaller/GithubActions@main
         env:
